@@ -1,0 +1,55 @@
+﻿Front Page-
+
+User have to fill -> 
+Hotel name  (getting from database)
+Checkin date
+Checkout date
+no. o f room
+no. of adults, child (if any) and age of child (if any)
+nationality
+
+
+Hotel List->
+That data fetched from api ( find hotel by destination)
+User can filter the data ( filtered data getting from database due to speed up)
+User can click on hotel image to view detail.
+
+Hotel Detail->
+Hotel Detail data again comes from api ( find hotel by Id) , becoz room detail not given in previous api.
+User can select room, which is added to cart.
+After adding cart, user can check prebooking details.
+
+
+Prebooking ->
+If user is not logged in, it will go to sign in form otherwise guest information form.
+On prebooking , room confirmation will be done and guset information will be taken.
+After this, user pay the amount.
+
+Booking -> 
+When user click on pay, it goes to migs where payment will be deducted, 
+when payment successfully deducted, system will call booking api and booked the room.
+User can take print of invoice from this page.
+
+My account->
+User can see his previous booking , 
+Also cancel the booking.
+Amount will be refunded when admin verify it.
+
+
+
+Admin Panel
+
+ Admin can see list of users
+Admin can update users info
+Admin can see list of hotels, and update details in 2 language.
+Admin can upload hotels, hotel images, hotel amenities etc  . from Upload section
+Admin can see booking history 
+Admin can see cancelled booking history, after successfully refund amount to user change the status.
+
+
+
+
+
+
+
+

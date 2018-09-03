@@ -1,0 +1,44 @@
+Frontend -
+
+Url ->  http://democarol.com/hmvc_hotel_booking
+
+User Register/login
+Fb/gmail Login
+forget password
+change password
+my account
+
+
+Hotel Search based on demo response
+
+Hotel filter based on price &  amenities
+
+Hotel Detail 
+
+Rooms in hotel
+
+Pre booking room
+
+
+
+
+
+------------------------------------------------------------------------------
+
+Admin Panel-
+
+Url - http://democarol.com/hmvc_hotel_booking/admin
+user- admin
+pass - 123456
+
+
+upload countries
+upload cities
+upload hotels
+upload hotel images
+upload property amenities
+upload room amenities
+List of hotels
+
+
+All the works based on demo responses.
